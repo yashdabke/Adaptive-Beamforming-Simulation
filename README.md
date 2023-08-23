@@ -20,9 +20,10 @@ Benefits:
 - Rejects Interference
 - Robust to Environment Changes
 - Increases System Capacity
-Applications:
 
+Applications:
 - Wireless Communication
 - Radar and Sonar
 - Medical Imaging
+
 MATLAB offers tools for simulating adaptive beamforming, aiding understanding of its impact on signal reception and interference rejection.
