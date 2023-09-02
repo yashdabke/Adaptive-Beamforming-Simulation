@@ -1,6 +1,6 @@
 this is a working simulation of an Adaptive Beamforming Radar using MATLAB Simulator which employs Machine Learning Algorithms and proves that the Least Mean Squared approach (LMS) is the best option for a simple antenna.
 
-The provided MATLAB code simulates a beamforming scenario with an antenna array and evaluates two beamforming algorithms: Least Mean Squares (LMS) and Constant Modulus (CM). Here's a description of the code's functionality:
+The provided MATLAB code simulates a beamforming scenario with an antenna array and evaluates two beamforming algorithms: Least Mean Squares (LMS) and Constant Modulus (CM). Here's a description of the code's functionality (error_handling.m) :
 
 1. Initialization and Parameters:
    - Various parameters are initialized at the beginning of the code. These include the number of antennas (`NumofAntenna`), the number of bits to be transmitted (`NumofSamples`), system noise variance (`SigmaSystem`), and angles of signal and noise sources in radians (`theta_x`, `theta_n1`, and `theta_n2`).
